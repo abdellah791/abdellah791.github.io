@@ -1,0 +1,42 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+
+}
+    .box{
+        position: relative;
+        border: 2px solid;
+        width: auto; /* Set appropriate width */
+        height: auto; /* Set appropriate height */
+        display: flex;
+        align-items: center;
+        font-weight: 600;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        background-color: #adacacfd;   
+    }
+    h5{
+        top: 0;
+        right: 0;
+        border-bottom:  2px solid;
+        border-left: 2px solid;
+        position: absolute;
+        font-weight: 5;
+    }
+    .one {
+        background-color: pink;
+    }
+    .two{
+        background-color: red;
+        padding-left: 30px;
+        color: green;
+    }
+    .three{
+        background-color: yellow;
+        padding-left: 30px;
+    }
+    
+ 
+
+
+    
+
