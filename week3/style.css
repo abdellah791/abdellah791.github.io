@@ -1,0 +1,46 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+span:hover{
+    font-size: 20px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #d9534f !important;
+}
+.navbar{
+    background-color:#ccecdc ;
+}
+
+.nav-link, .dropdown-item {
+    color: #5e5e5e !important;
+}
+
+.nav-link:hover, .dropdown-item:hover {
+    color: #d9534f !important;
+}
+button{
+    border: 1px solid black;
+}
+
+button:hover{
+    background-color: #ececec
+}
+
+.container {
+    padding-top: 50px;
+}
+
+h1 {
+    color: #d9534f;
+}
+.container{
+    background-color: #ccece1;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
