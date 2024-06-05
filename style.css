@@ -1,0 +1,66 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background-color: #12615d;
+	color: rgb(0, 0, 0);
+}
+h2{
+	color: white;
+}
+ul li span, h1 p{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ul li{
+	font-size: 20px;
+}
+.navbar{
+
+border: none;
+background-color: #686565;
+color: #61122F;
+}
+.llc{
+	color: black;
+	font-size: 40px;
+	list-style: none;
+	font-family:;
+}
+.glyphicon{
+	font-size: 30px;
+	color:#61122F; 
+}
+
+.center{
+	width: 90%;
+	background-color: grey;
+
+}
+.container
+{
+	background-color: grey;
+}
+.text-center{
+	font-size: 30px;
+}
+
+h2{
+	text-align: center;
+}
+
+#myNavbar ul li a {
+	color: #3ec4bd;
+	transition:1s;
+	-webkit-transition:1s;
+	-moz-transition:1s;
+	-ms-transition:1s;
+	-o-transition:1s;
+}
+#myNavbar ul li a:hover{
+    color: #f5bd24;
+}
+.navbar-brand{
+font-size: 30px;	
+}
